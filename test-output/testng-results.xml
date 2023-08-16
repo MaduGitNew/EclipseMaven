@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6403" started-at="2023-07-23T17:47:37Z" finished-at="2023-07-23T17:47:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6403" started-at="2023-07-23T17:47:37Z" finished-at="2023-07-23T17:47:44Z">
+      <class name="org.testng.Koenig">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.testng.Koenig@26653222]" name="launchBrowser" is-config="true" duration-ms="3237" started-at="2023-07-23T17:47:37Z" finished-at="2023-07-23T17:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="urlLaunch()[pri:0, instance:org.testng.Koenig@26653222]" name="urlLaunch" is-config="true" duration-ms="2338" started-at="2023-07-23T17:47:41Z" finished-at="2023-07-23T17:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:org.testng.Koenig@26653222]" name="login" duration-ms="20" started-at="2023-07-23T17:47:43Z" finished-at="2023-07-23T17:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="readTitle()[pri:0, instance:org.testng.Koenig@26653222]" name="readTitle" is-config="true" duration-ms="20" started-at="2023-07-23T17:47:43Z" finished-at="2023-07-23T17:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readTitle -->
+        <test-method status="PASS" signature="quitUrl()[pri:0, instance:org.testng.Koenig@26653222]" name="quitUrl" is-config="true" duration-ms="749" started-at="2023-07-23T17:47:43Z" finished-at="2023-07-23T17:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitUrl -->
+      </class> <!-- org.testng.Koenig -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
